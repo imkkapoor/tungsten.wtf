@@ -22,4 +22,4 @@ Tungsten is ad-hoc signed, with no Developer ID and no notarization. A copy that
 carries a quarantine flag and dies with **"Tungsten is damaged and can't be opened"** — that is the
 signing policy, not a broken build. Step 3 clears it.
 
-There is no auto-update. The app tells you when a release is out; the download is by hand.
+Updates install from inside the app: a pill appears when a new release is out.
