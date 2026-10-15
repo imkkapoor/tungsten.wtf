@@ -1,6 +1,12 @@
 # tungsten.wtf
 
-Releases for Tungsten. macOS on Apple Silicon.
+Tungsten is an AI agent orchestrator for macOS. It runs coding agents in terminals side by side on an
+infinite canvas, with each agent working in its own git worktree. Claude Code, Codex and Pi have
+built-in support, and any other CLI agent runs too.
+
+Website: [tungsten.wtf](https://tungsten.wtf)
+
+This repo holds the releases. macOS on Apple Silicon.
 
 ## Install
 
